@@ -1,3 +1,5 @@
+// CSE 142 HW 5
+// Aza Mohr
 import java.util.Scanner;
 
 public class GuessingGame {
